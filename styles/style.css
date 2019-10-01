@@ -33,8 +33,15 @@ a{
     vertical-align: middle;
     white-space: nowrap;
 }
-.nav-item, .apps{
-    background-size: 528px 68px;
+
+.apps{
+    height: 30px;
+    width: 30px;
+}
+
+.account{
+    height: 30px;
+    width: 30px;
 }
 
 #nav-item {
